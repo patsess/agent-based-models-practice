@@ -8,4 +8,5 @@ if module_path not in sys.path:
 from agentbasedmodelspractice.office_training.run import server
 
 
-server.launch()
+if __name__ == '__main__':
+    server.launch()
