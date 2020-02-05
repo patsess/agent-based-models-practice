@@ -16,6 +16,7 @@ logging.basicConfig(level=logging.INFO)
 # TODO: docstrs
 # TODO: more logging
 
+# TODO: RANDOMISE LOOP THROUGH WORKERS FROM THE TRAINER!!!
 
 
 class TrainingCoverage(Model):
